@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "955463329563",
+    "firebase_url": "https://perpus-ppm-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "perpus-ppm",
+    "storage_bucket": "perpus-ppm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955463329563:android:8bf6c11ed85c77ca03d5be",
+        "android_client_info": {
+          "package_name": "com.example.py7.perpustakaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgCWgt6_zQ-yh_DbF3y1tVoP9lE42img"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955463329563:android:a8ad02e3d70bf98403d5be",
+        "android_client_info": {
+          "package_name": "com.prismana.corporation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgCWgt6_zQ-yh_DbF3y1tVoP9lE42img"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955463329563:android:cc979f5c5dcab57703d5be",
+        "android_client_info": {
+          "package_name": "com.prismana.corporation.perpusku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgCWgt6_zQ-yh_DbF3y1tVoP9lE42img"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955463329563:android:994a1cf9d68cd5b703d5be",
+        "android_client_info": {
+          "package_name": "com.prismana.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgCWgt6_zQ-yh_DbF3y1tVoP9lE42img"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955463329563-0ej705di28kkavqmgsurkdmlrp9ro36o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

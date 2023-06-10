@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PerpusKu</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="simpan">Simpan</string>
+    <string name="clear">Bersihkan</string>
+    <string name="delete">Hapus</string>
+    <string name="belumPunyaAkun">Belum punya akun? <u>Daftar</u></string>
+    <string name="punyaAkun">Sudah punya akun? <u> Login </u></string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="teksDaftar">Daftar Pengguna Baru</string>
+    <string name="logout">Logout</string>
+</resources>
